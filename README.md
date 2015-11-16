@@ -4,7 +4,7 @@ CEPHOS-LINK MAPPING: Mapping of Italian Hospitals/Hospital Departments with psyc
 Comparative Effectiveness Research on Psychiatric Hospitalisation by Record Linkage of Large Administrative Data Sets (CEPHOS-LINK) is a European research project investigating psychiatric services accross six countries, namely Finland, Austria, Romania, Norway, Slovenia and Italy [CEPHOS-LINK](https://www.thl.fi/en/web/thlfi-en/research-and-expertwork/projects-and-programmes/comparative-effectiveness-research-on-psychiatric-hospitalisation)
 
 
-Project based on Bootleaf: http://bmcbride.github.io/bootleaf/
+Project based on Bootleaf: https://github.com/bmcbride/bootleaf
 A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
 
 ### Demo:
