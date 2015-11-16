@@ -20,6 +20,6 @@ http://sanez.github.io/cephoslink_ITatlas/
 
 ### Screenshots:
 
-![Desktop](http://github.com/sanez/cephoslink_ITatlas/cephoslink1.png)
+![Desktop](http://sanez.github.io/cephoslink1.png)
 
 ![Desktop Popup](http://sanez.github.io/cephoslink2.png)
