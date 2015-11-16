@@ -20,6 +20,6 @@ http://sanez.github.io/cephoslink_ITatlas/
 
 ### Screenshots:
 
-![Desktop](http://bmcbride.github.io/bootleaf/screenshots/bootleaf-desktop1.png)
+![Desktop](http://sanez.github.io/cephoslink1.png)
 
-![Desktop Popup](http://bmcbride.github.io/bootleaf/screenshots/bootleaf-desktop3.png)
+![Desktop Popup](http://sanez.github.io/cephoslink2.png)
